@@ -1,0 +1,18 @@
+Version 1.0
+
+	i) Initial Release.
+	
+Version 1.0.0.1
+
+	i) Resolved Issues with Text Domain	
+	
+Version 1.0.1
+
+	i) 	Fixed Security Issues.
+	ii) Removed Header Footer Scripts
+	iii) Renamed Image Extension to avoid issues on Linux Server.
+	
+Version 1.0.1.2
+
+	i) Updated Support Forum Link
+	ii) Cleaned Options Panel with smaller headings	
